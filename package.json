@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "g": "^2.0.1",
+    "newman": "^6.1.2"
+  },
+  "name": "pruebasunitarias-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
